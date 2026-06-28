@@ -75,8 +75,8 @@ We may update this Privacy Policy from time to time. We will notify you of any s
 
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
 
-**Email:** [YOUR_EMAIL_ADDRESS_HERE]  
-**Organization:** [YOUR_CHURCH_OR_DEVELOPER_NAME_HERE]
+**Email:** support@wapcom.com 
+**Organization:** WAPCOM LTD
 
 ---
 
